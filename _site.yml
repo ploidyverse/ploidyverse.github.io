@@ -1,0 +1,30 @@
+name: Ploidyverse
+navbar:
+  title: Ploidyverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Packages
+    icon: fa-dropbox
+    href: packages.html
+  - text: Articles
+    icon: fa-newspaper-o
+    href: articles.html
+  - text: Contributing
+    icon: fa-code-fork
+    href: contributing.html
+  right:
+  - icon: fa-github-square
+    href: https://github.com/ploidyverse
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      in_header: favicon.md
+      after_body: footer.md
+    lib_dir: site_libs
+    self_contained: no
+output_dir: "."
+

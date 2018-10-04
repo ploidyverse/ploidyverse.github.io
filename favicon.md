@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="logo.png" height="25" width="25">

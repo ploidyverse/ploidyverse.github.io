@@ -1,0 +1,5 @@
+---
+title: "Articles"
+---
+
+ - <a href="https://github.com/ploidyverse/ploidyverseClasses/blob/master/inst/doc/ploidyverse_VCF_specification.md" target="_blank">VCF Standard</a>

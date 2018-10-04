@@ -1,0 +1,21 @@
+---
+title: "Welcome to the Ploidyverse!"
+---
+
+<img src="logo.png" height="150" width="150">
+
+The Ploidyverse is an integrated collection of R packages for the analysis
+of mixed-ploidy genetic data.
+
+The `ploidyverse` package is the main R package responsible for installing
+and managing all other packages in the Ploidyverse. It can be installed from
+GitHub using the `devtools`, as demonstrated below:
+
+```r
+# Install devtools if you don't already have it
+install.packages("devtools")
+
+# Then install and load the ploidyverse package
+devtools::install_github("ploidyverse/ploidyverse")
+library(ploidyverse)
+```
