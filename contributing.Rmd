@@ -1,5 +1,5 @@
 ---
-title: "Contributing a package to the Ploidyverse"
+title: "Contributing to the Ploidyverse"
 ---
 
 **TODO**

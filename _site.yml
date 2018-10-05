@@ -1,4 +1,6 @@
 name: Ploidyverse
+output_dir: "."
+exclude: ["README.md", "LICENSE.md"]
 navbar:
   title: Ploidyverse
   left:
@@ -26,5 +28,3 @@ output:
       after_body: footer.md
     lib_dir: site_libs
     self_contained: no
-output_dir: "."
-
