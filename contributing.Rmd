@@ -4,4 +4,5 @@ title: "Contributing to the Ploidyverse"
 
 **TODO**
 
-Here are the guidelines for contributing a package to the Ploidyverse.
+We are currently developing the guidelines for contributing software to the
+Ploidyverse. Please stay tuned!

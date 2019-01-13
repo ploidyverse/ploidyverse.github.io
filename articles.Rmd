@@ -2,4 +2,8 @@
 title: "Articles"
 ---
 
+ - <a href="https://doi.org/10.6084/m9.figshare.7579739.v1" target="_blank">PAGXXVII Poster</a>
+
  - <a href="https://github.com/ploidyverse/ploidyverseClasses/blob/master/inst/doc/ploidyverse_VCF_specification.md" target="_blank">VCF Standard</a>
+ 
+ - <a href="https://github.com/ploidyverse/ploidyverse.github.io/blob/master/CODE_OF_CONDUCT.md" target="_blank">Code of Conduct</a>

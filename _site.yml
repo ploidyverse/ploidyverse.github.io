@@ -1,6 +1,6 @@
 name: Ploidyverse
 output_dir: "."
-exclude: ["README.md", "LICENSE.md"]
+exclude: ["README.md", "LICENSE.md", "CODE_OF_CONDUCT.md"]
 navbar:
   title: Ploidyverse
   left:

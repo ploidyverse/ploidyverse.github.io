@@ -2,7 +2,20 @@
 title: "Ploidyverse Packages"
 ---
 
- - **ploidyverse** <a href="https://github.com/ploidyverse/ploidyverse" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
- - **fitPoly** <a href="https://github.com/cran/fitPoly" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
- - **polyRAD** <a href="https://github.com/lvclark/polyRAD" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
- - **updog** <a href="https://github.com/dcgerard/updog" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
+----
+
+## Core Packages
+
+**ploidyverse** <a href="https://github.com/ploidyverse/ploidyverse" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
+
+**ploidyverseClasses** <a href="https://github.com/ploidyverse/ploidyverseClasses" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
+
+----
+
+## Genotyping
+
+**fitPoly** <a href="https://github.com/cran/fitPoly" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
+
+**polyRAD** <a href="https://github.com/lvclark/polyRAD" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
+
+**updog** <a href="https://github.com/dcgerard/updog" target="_blank"><i class="fa fa-github" style="font-size:24px"></i></a>
