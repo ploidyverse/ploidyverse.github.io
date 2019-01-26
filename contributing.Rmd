@@ -6,3 +6,11 @@ title: "Contributing to the Ploidyverse"
 
 We are currently developing the guidelines for contributing software to the
 Ploidyverse. Please stay tuned!
+
+## Getting involved
+
+Participate in the discussion on 
+[Google Groups](https://groups.google.com/forum/#!forum/ploidyverse).
+
+To get added to the GitHub organization, comment on 
+[this issue](https://github.com/ploidyverse/ploidyverse.github.io/issues/1).
